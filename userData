@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "Molecule Man",
+        "age" : 29,
+        "address" : "Pohang Si",
+        "phone" : 12345678
+    },
+    {
+        "name" : "BBangHo",
+        "age" : 25,
+        "address" : "KimChun Si",
+        "phone" : 56127894
+    },
+    {
+        "name" : "youngTaek",
+        "age" : 30,
+        "address" : "Seoul Si",
+        "phone" : 98765432
+    }
+]
